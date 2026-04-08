@@ -40,7 +40,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 ## 実行方法
 
 ```bash
-chainlit run app.py -w
+uv run chainlit run app.py
 ```
 
 起動後、ブラウザで http://localhost:8000 にアクセスしてください。
